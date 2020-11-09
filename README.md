@@ -4,7 +4,7 @@ In this repository, I'll be adding some of my codes which I wrote during the rea
 from @linkedin.com.
 
 
-#In the fist "hello-react" file , I've added the introductory codes that I've learnt and it contains-
+-In the fist "hello-react" file , I've added the introductory codes that I've learnt and it contains-
    - 1.Installing the tools
    - 2.setting up react developer tools for google chrome
    - 3.Creating elements 
