@@ -16,4 +16,4 @@ from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
    - 9.Updating With the useEffect dependency array
    - 10.Fetching data with useEffefct
    - 11.Using useReducer
-   - 12.**Deploying a React app**
+   - 12.**Deploying a React app** using [**netlify**](https://app.netlify.com/teams/pegasus-01/overview)
