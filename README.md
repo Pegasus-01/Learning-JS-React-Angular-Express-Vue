@@ -13,3 +13,7 @@ from @linkedin.com.
    - 6.Rendering, conditional rendering and react fragments
    - 7.Array destructuring in react
    - 8.Using "useState" , "multiple state variables" and working with "useEffect"
+   - 9.Updating With the useEffect dependency array
+   - 10.Fetching data with useEffefct
+   - 11.Using useReducer
+   - 12.**Deploying a React app**
