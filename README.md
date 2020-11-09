@@ -11,5 +11,5 @@ from @linkedin.com.
    - 4.Introduction to JSX and understanding it's features
    - 5.Creating and understanding components
    - 6.Rendering, conditional rendering and react fragments
-   - 7. Array destructuring in react
+   - 7.Array destructuring in react
    - 8.Using "useState" , "multiple state variables" and working with "useEffect"
