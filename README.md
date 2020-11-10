@@ -19,4 +19,4 @@ from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
    - 12.**Deploying a React app** using [**netlify**](https://app.netlify.com/teams/pegasus-01/overview)
 
 
-In the [**index.js**] file in **[src]** folder, all the operations have been commented for better understanding and none of them are wiped out so a clear concept about the operations can be built through that. And the build version of the app is just deployed and not hosted due to unavailability of domains.
+In the [**index.js**](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react/src) file in [**src**](https://github.com/Pegasus-01/Learning-React/blob/main/hello-react/src/index.js) folder, all the operations have been commented for better understanding and none of them are wiped out so a clear concept about the operations can be built through that. And the build version of the app is just deployed and not hosted due to unavailability of domains.
