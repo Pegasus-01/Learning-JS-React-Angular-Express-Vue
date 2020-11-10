@@ -5,7 +5,7 @@ from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
 
 
 => **In the fist "hello-react" file , I've added the introductory codes that I've learnt and it contains-**
-   - 1.Installing the tools
+   - 1.[Installing the tools](https://reactjs.org/docs/create-a-new-react-app.html)
    - 2.setting up react developer tools for google chrome
    - 3.Creating elements 
    - 4.Introduction to JSX and understanding it's features
