@@ -17,3 +17,6 @@ from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
    - 10.Fetching data with useEffefct
    - 11.Using useReducer
    - 12.**Deploying a React app** using [**netlify**](https://app.netlify.com/teams/pegasus-01/overview)
+
+
+In the **index.js** file in **src** folder, all the operations have been commented for better understanding and none of them are wiped out so a clear concept about the operations can be built through that. And the build version of the app is just deployed and not hosted due to unavailability of domains.
