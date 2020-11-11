@@ -4,7 +4,9 @@ In this repository, I'll be adding some of my codes which I wrote during the rea
 from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
 
 
+
 - **In my first folder [hello-react](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react) , I've added the introductory codes that I've learnt and it contains-**
+
    - 1.[Installing the tools](https://reactjs.org/docs/create-a-new-react-app.html)
    - 2.setting up react developer tools for google chrome
    - 3.Creating elements 
@@ -17,6 +19,8 @@ from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
    - 10.Fetching data with useEffefct
    - 11.Using useReducer
    - 12.**Deploying a React app** using [**netlify**](https://app.netlify.com/teams/pegasus-01/overview)
+
+
 
 
 In the [**index.js**](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react/src) file in [**src**](https://github.com/Pegasus-01/Learning-React/blob/main/hello-react/src/index.js) folder, all the operations have been commented for better understanding and none of them are wiped out so a clear concept about the operations can be built through that. And the build version of the app is just deployed and not hosted due to unavailability of domains.
