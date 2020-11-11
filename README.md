@@ -20,3 +20,13 @@ from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
 
 
 In the [**index.js**](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react/src) file in [**src**](https://github.com/Pegasus-01/Learning-React/blob/main/hello-react/src/index.js) folder, all the operations have been commented for better understanding and none of them are wiped out so a clear concept about the operations can be built through that. And the build version of the app is just deployed and not hosted due to unavailability of domains.
+
+
+=> **In the folder "react interface" , I've created a fully functioning website interface using React.JS and this contains-**
+   - 1.Installation and **Exploring**(I have learnt a lot) a basic react app.
+   - 2.Creating **Subcomponents**
+   - 3.State and Expresision basics
+   - 4.Using fetch in a lifecycle method
+   - 5.Working with complex data
+   - 6.Passing data through props
+   - 7. Using a render template expression 
