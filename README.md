@@ -34,4 +34,4 @@ In the [**index.js**](https://github.com/Pegasus-01/Learning-React/tree/main/hel
    - 4.Using fetch in a lifecycle method
    - 5.Working with complex data
    - 6.Passing data through props
-   - 7. Using a render template expression 
+   - 7.Using a render template expression 
