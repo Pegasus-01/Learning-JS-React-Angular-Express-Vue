@@ -31,7 +31,7 @@ In the [**index.js**](https://github.com/Pegasus-01/Learning-React/tree/main/hel
    - 1.Installation and **Exploring**(I have learnt a lot) a basic react app.
    - 2.Creating **Subcomponents**
    - 3.State and Expresision basics
-   - 4.Using fetch in a lifecycle method
+   - 4.Using fetch in a **Lifecycle Method"
    - 5.Working with complex data
    - 6.Passing data through props
    - 7.Using a render template expression 
