@@ -7,7 +7,7 @@
 
 
 
- -  **In my first folder [hello-react](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react) , I've added the introductory codes that I've learnt and it contains-   **
+   -**In my first folder [hello-react](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react) , I've added the introductory codes that I've learnt and it contains-   **
 
      - 1.[Installing the tools](https://reactjs.org/docs/create-a-new-react-app.html)
      - 2.setting up react developer tools for google chrome
@@ -28,7 +28,7 @@
    In the [**index.js**](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react/src) file in [**src**](https://github.com/Pegasus-01/Learning-React/blob/main/hello-    react/src/index.js) folder, all the operations have been commented for better understanding and none of them are wiped out so a clear concept about the operations can be        built through that. And the build version of the app is just deployed and not hosted due to unavailability of domains.
 
 
--**In the folder [react interface](#), I've created a fully functioning website interface using React.JS and this contains-**
+   -**In the folder [react interface](#), I've created a fully functioning website interface using React.JS and this contains-**
 
      - 1.Installation and **Exploring**(I have learnt a lot) a basic react app.
      - 2.Creating **Subcomponents**
