@@ -41,3 +41,6 @@
 
 
 # LEARNING [ANGULAR.JS](https://angular.io/)  
+
+   In this repository, I'll be adding the codes and the projects on my way to learn angular.js , these codes are made from scratch and will contain 
+   from beginner to advanced level programs.
