@@ -3,10 +3,9 @@
 In this repository, I'll be adding some of my codes which I wrote during the react training course
 from [**LinkedIn Learning**](https://www.linkedin.com/learning/me)
 
+This project contains 4 chapters, React , Angular, Express , Vue.
 
-
-
-- **In my first folder [hello-react](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react) , I've added the introductory codes that I've learnt and it contains-   **
+-**In my first folder [hello-react](https://github.com/Pegasus-01/Learning-React/tree/main/hello-react) , I've added the introductory codes that I've learnt and it contains-   **
    - 1.[Installing the tools](https://reactjs.org/docs/create-a-new-react-app.html)
     - 2.setting up react developer tools for google chrome
      - 3.Creating elements 
